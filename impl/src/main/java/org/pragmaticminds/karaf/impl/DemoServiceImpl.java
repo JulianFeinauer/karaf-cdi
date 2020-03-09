@@ -1,4 +1,4 @@
-package org.pragmaticminds.karaf.internal;
+package org.pragmaticminds.karaf.impl;
 
 import org.osgi.service.component.annotations.Component;
 import org.pragmaticminds.karaf.DemoService;
